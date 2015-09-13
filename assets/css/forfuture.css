@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/Raleway-Black.ttf');
+}
+
+.brand-title{
+    font-family: Raleway;
+    color: #acd373;
+}
